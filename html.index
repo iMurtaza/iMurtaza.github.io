@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <link rel="stylesheet" href="index.css">
+<head>
+
+</head>
+<body>
+<center>
+<div class="header">
+<h1>  한국 2020년  </h1>
+</div>
+</center>
+
+<div class="navbar">
+  <a href="https://serusan.github.io/index.html">Home</a>
+  <a href="https://serusan.github.io/clubs.html" style="float:right">Basic Korean</a>
+  <div class="dropdown">
+    <button class="dropbtn" >Food & Booze
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://serusan.github.io/food.html">Dinner</a>
+      <a href="https://serusan.github.io/drinks.html">Non-Alcohol</a>
+      <a href="https://serusan.github.io/sul.html">Alcohol 3</a>
+    </div>
+  </div>
+  <div class="dropdown">
+    <button class="dropbtn" >Locations
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="https://serusan.github.io/locations.html">Monuments</a>
+      <a href="https://serusan.github.io/area.html">Area's in Seoul </a>
+      <a href="https://serusan.github.io/clubs.html">Clubs </a>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+<div class="leftcolumn">
+  <div class="card">
+    <h2>14 days in Korea</h2>
+    <h5>7월 2020</h5>
+    <p>Don't get lost.</p>
+    <p>All the choices are subjective.</p>
+  </div>
+  <div class="card">
+    <h2>Basic Korean for ordering food.</h2>
+    <h5> Nov 11, 2019</h5>
+    <p>In this post I will introduce phrases that you will 100% need if you're unlucky.</p>
+    <a href="#"> Read more.
+  </div>
+</div>
+  <div class="rightcolumn">
+    <h2>About Me</h2>
+    <img src="seru.jpg" width="150" height="150">
+
+  </div>
+</div>
+
+<div class="footer">
+<h2>This site is for personal entertainment.</h2>
+</div>
+</body>
